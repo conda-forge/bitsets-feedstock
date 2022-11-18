@@ -5,11 +5,13 @@ Home: https://github.com/xflr6/bitsets
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bitsets-feedstock/blob/master/LICENSE.txt)
 
 Summary: Ordered subsets over a predefined domain
 
+Development: https://github.com/xflr6/bitsets
 
+Documentation: https://bitsets.readthedocs.io/
 
 Current build status
 ====================
