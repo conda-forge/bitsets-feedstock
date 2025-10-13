@@ -1,13 +1,13 @@
 {% set name = "bitsets" %}
-{% set version = "0.7.16" %}
+{% set version = "0.9.1" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.zip 
-  sha256: "5324d8e14d3fbd9a345efd197b3e1b0833792403c0ae69010719002a5df026ed"
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: "f4268875468ed3ba8657b1e09a984c74c88622dd7d29fa1d8d0d474b7e2daff9"
 
 build:
   number: 0
